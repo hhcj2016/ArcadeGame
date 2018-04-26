@@ -9,3 +9,7 @@ http-server
 
 3. Run project at
 http://localhost:8080/
+
+Referred to projects below:
+https://github.com/ThanCodes/udacity-classic-arcade-game-clone/blob/master/js/app.js
+https://github.com/mikejoyceio/arcade-game/blob/master/js/app.js
